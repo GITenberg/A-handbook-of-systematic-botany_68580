@@ -1,0 +1,53 @@
+_repo: A-handbook-of-systematic-botany_68580
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Knoblauch, Emil
+    alias: Knoblauch, Emil Friedrich
+    birthdate: 1864
+    deathdate: 1936
+    gutenberg_agent_id: '54840'
+    url: http://www.gutenberg.org/2009/agents/54840
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Emil_Friedrich_Knoblauch
+    - https://de.wikipedia.org/wiki/Emil_Friedrich_Knoblauch
+  translator:
+    agent_name: Potter, Michael Cresse
+    alias: Potter, Michael Cressé
+    birthdate: 1858
+    gutenberg_agent_id: '54841'
+    url: http://www.gutenberg.org/2009/agents/54841
+creator:
+  author:
+    agent_name: Warming, Eugenius
+    aliases:
+    - Warming, Johannes Eugenius Bulow
+    - Warming, Eug. (Eugenius)
+    - Warming, Johannes Eugenius Bülow
+    birthdate: 1841
+    deathdate: 1924
+    gutenberg_agent_id: '54839'
+    url: http://www.gutenberg.org/2009/agents/54839
+    wikipedia: https://en.wikipedia.org/wiki/Eugenius_Warming
+description: ''
+gutenberg_issued: '2022-07-21'
+identifiers:
+  gutenberg: '68580'
+language: en
+pgterms:marc904: https://archive.org/details/handbookofsystem00warmuoft
+pgterms:marc905: 20201025025916warming
+pgterms:marc906: '1895'
+pgterms:marc907: gb
+production_note: Peter Becker, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :Swan Sonnenschein,1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Plants -- Classification'
+- GITenberg
+title: A handbook of systematic botany
+url: http://www.gutenberg.org/ebooks/68580
