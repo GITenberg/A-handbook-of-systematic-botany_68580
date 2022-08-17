@@ -17,6 +17,9 @@ contributor:
     birthdate: 1858
     gutenberg_agent_id: '54841'
     url: http://www.gutenberg.org/2009/agents/54841
+covers:
+- cover_type: archival
+  image_path: 68580-h/images/cover.jpg
 creator:
   author:
     agent_name: Warming, Eugenius
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54839
     wikipedia: https://en.wikipedia.org/wiki/Eugenius_Warming
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68580#A-handbook-of-systematic-botany
 gutenberg_issued: '2022-07-21'
 identifiers:
   gutenberg: '68580'
